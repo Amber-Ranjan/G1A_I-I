@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Menu-Actions</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ba4fdd4a-b24c-4529-ab33-e72ee796d248</testCaseGuid>
+   <testCaseGuid>ca55831e-6044-411d-b940-bb09d8078650</testCaseGuid>
 </TestCaseEntity>

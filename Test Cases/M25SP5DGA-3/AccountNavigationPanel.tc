@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>AccountNavigationPanel</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ba4fdd4a-b24c-4529-ab33-e72ee796d248</testCaseGuid>
+   <testCaseGuid>1ae9b794-8d49-436f-89bb-d06e5c739510</testCaseGuid>
 </TestCaseEntity>
