@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>TopBarOption</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ba4fdd4a-b24c-4529-ab33-e72ee796d248</testCaseGuid>
+   <testCaseGuid>369ec2cd-2df4-440a-b9ca-54c08cf148ed</testCaseGuid>
 </TestCaseEntity>
